@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     //好哈
-    //嘻嘻嘻
+    //嘻嘻嘻嘿嘿嘿嘿
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
