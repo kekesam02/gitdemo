@@ -37,5 +37,8 @@ public class HelloWorld {
        // 从此处开始出现冲突，下面代码是李四添加
         System.out.println("李四添加了代码在37-39行.....");
         System.out.println("222222222222222222222222222");
+       //从此处开始出现冲突，下面代码是张三添加。
+        System.out.println("张三添加了代码在37-39行.....");
+        System.out.println("111111111111111111111111111");
     }
 }
