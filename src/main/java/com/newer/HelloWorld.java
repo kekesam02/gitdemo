@@ -34,5 +34,8 @@ public class HelloWorld {
     public static void main(String[] args){
        System.out.println("Hello world!!!!hehe");
        System.out.println("李四修改了增加了代码哦！！！");
+       // 从此处开始出现冲突，下面代码是李四添加
+        System.out.println("李四添加了代码在37-39行.....");
+        System.out.println("222222222222222222222222222");
     }
 }

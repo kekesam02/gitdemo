@@ -1,5 +1,4 @@
 HELP.md
-<<<<<<< HEAD
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -25,8 +24,6 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
-=======
->>>>>>> 42c3dea807342d915cb3dee3d6bd16280511b75c
 mvnw
 mvnw.cmd
 myz-hystrix-demo.iml
